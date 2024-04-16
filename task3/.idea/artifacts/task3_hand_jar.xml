@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="task3_hand:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/task3_hand_jar</output-path>
+    <root id="archive" name="task3_hand.jar">
+      <element id="module-output" name="task3_hand" />
+    </root>
+  </artifact>
+</component>
